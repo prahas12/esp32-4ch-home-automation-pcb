@@ -37,6 +37,3 @@ The project focuses on practical IoT hardware design, including relay isolation,
 - Through-hole components used where mechanical strength is required
 
 ---
-
-## 📂 Repository Contents
-
